@@ -1,0 +1,15 @@
+Large language models are neural network models trained on vast amounts of text data to understand and generate human language. They have demonstrated remarkable capabilities in a wide range of natural language processing tasks and have become the foundation of modern AI systems.
+
+The transformer architecture, introduced in 2017, revolutionized natural language processing. Transformers use self-attention mechanisms to capture relationships between words regardless of their distance in the text. This allows transformers to model long-range dependencies that were challenging for earlier recurrent neural network models.
+
+Pre-training and fine-tuning is the dominant paradigm for developing language models. Models are first pre-trained on large amounts of unlabeled text using self-supervised objectives like predicting masked words or the next token. They are then fine-tuned on task-specific labeled data to adapt them to particular applications.
+
+Instruction tuning trains language models to follow instructions provided in natural language. By fine-tuning on datasets of instruction and response pairs, models learn to interpret and execute a wide range of tasks described in natural language. Instruction-tuned models are more capable and easier to use.
+
+Reinforcement learning from human feedback, or RLHF, aligns language models with human preferences. Human raters evaluate model outputs, and the ratings are used to train a reward model. The language model is then optimized using reinforcement learning to maximize the reward. RLHF has been key to making language models more helpful and less harmful.
+
+Context length refers to the amount of text a language model can process at once. Longer context windows allow models to consider more information when generating text, enabling applications like document summarization and multi-turn dialogue. Attention mechanisms are computationally expensive, making long context lengths challenging.
+
+Hallucination refers to the tendency of language models to generate plausible-sounding but factually incorrect information. This is a significant limitation for applications that require factual accuracy. Retrieval-augmented generation addresses this by allowing models to access external knowledge bases during generation.
+
+Multimodal models can process and generate multiple types of data including text, images, audio, and video. By training on paired data from different modalities, these models can perform tasks like image captioning, visual question answering, and text-to-image generation.

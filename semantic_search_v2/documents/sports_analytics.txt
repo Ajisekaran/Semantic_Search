@@ -1,0 +1,15 @@
+Sports analytics uses data analysis and statistical methods to improve performance, strategy, and decision-making in sports. It has transformed how teams are managed, how players are evaluated, and how games are played at the highest levels.
+
+Performance analysis uses data from sensors, cameras, and GPS trackers to quantify athlete performance. Metrics like sprint speed, heart rate, and distance covered provide coaches with detailed insights into individual and team performance. This data can inform training programs, tactics, and player selection.
+
+Player evaluation and recruitment have been transformed by analytics. Rather than relying solely on subjective assessments, teams now use statistical models to identify undervalued players and predict future performance. The Moneyball approach, popularized by the Oakland Athletics baseball team, demonstrated the power of data-driven player evaluation.
+
+Tactical analysis uses data to understand and optimize team strategy. Heat maps, passing networks, and pressing intensity metrics reveal patterns in team play that are difficult to see with the naked eye. Coaches use this information to develop more effective tactics and counterstrategies.
+
+Injury prevention is a growing application of sports analytics. By monitoring athlete workload and biomechanical data, teams can identify players who are at elevated risk of injury and adjust training loads accordingly. Early identification of injury risk can extend careers and keep players available for competition.
+
+Fan engagement and experience are also being enhanced by sports analytics. Interactive statistics, real-time data visualizations, and predictive models for game outcomes enrich the viewing experience for fans. Fantasy sports platforms have created a large community of engaged fans who follow statistics closely.
+
+Broadcasting and media have been transformed by the availability of rich statistical data. Advanced statistics are now commonly featured in sports broadcasts and analysis. Data-driven storytelling helps fans understand the game at a deeper level.
+
+The business of sports has also benefited from analytics. Ticket pricing, merchandise sales, and sponsorship valuations are increasingly informed by data. Teams and leagues use analytics to optimize revenue and understand fan behavior.

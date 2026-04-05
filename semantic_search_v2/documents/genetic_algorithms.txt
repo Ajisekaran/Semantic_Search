@@ -1,0 +1,15 @@
+Genetic algorithms are a class of optimization algorithms inspired by the process of natural selection. They are used to find solutions to optimization problems by evolving a population of candidate solutions over multiple generations.
+
+The basic genetic algorithm works as follows. A population of candidate solutions is initialized, often randomly. Each solution is evaluated using a fitness function that measures how well it solves the problem. Solutions with higher fitness are more likely to be selected for reproduction. Offspring are created by combining and mutating parent solutions. This process repeats for multiple generations until a satisfactory solution is found.
+
+Selection is the process of choosing solutions for reproduction based on their fitness. Common selection methods include tournament selection, where the fittest individual in a random group is selected, and roulette wheel selection, where the probability of selection is proportional to fitness. Selection pressure determines how strongly the algorithm favors high-fitness solutions.
+
+Crossover is the operator that creates offspring by combining the genetic material of two parent solutions. Single-point crossover splits the parents at a random point and swaps the segments. Uniform crossover independently randomizes whether each gene comes from one parent or the other. Crossover allows good partial solutions from different parents to be combined.
+
+Mutation introduces random changes to individual solutions to maintain diversity in the population and enable exploration of new regions of the solution space. Without mutation, the population could converge prematurely to a suboptimal solution. The mutation rate controls the frequency of mutations.
+
+Genetic algorithms are well-suited to optimization problems where the solution space is large and complex, and where gradient information is unavailable or the objective function is non-differentiable. Applications include scheduling, route optimization, feature selection, and neural network architecture search.
+
+The schema theorem provides a theoretical explanation for why genetic algorithms work. Schemas are patterns of genetic material that appear in multiple solutions in the population. The theorem suggests that schemas with above-average fitness tend to grow in frequency over time, driving the population toward better solutions.
+
+Variations of the basic genetic algorithm include genetic programming, which evolves programs rather than fixed-length strings, and evolution strategies, which use continuous-valued representations and self-adaptive mutation rates. These variants have been applied to a wide range of optimization and machine learning problems.

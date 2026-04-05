@@ -1,0 +1,15 @@
+Graph neural networks, or GNNs, are a class of deep learning models designed to operate on graph-structured data. Graphs are a versatile data structure that can represent relationships between entities in many domains including social networks, molecules, and knowledge graphs.
+
+Message passing is the core mechanism in most graph neural network architectures. In each layer, nodes aggregate information from their neighbors, and the aggregated information is used to update node representations. After multiple rounds of message passing, nodes have representations that capture information from a wider neighborhood.
+
+Graph convolutional networks, or GCNs, adapt the convolution operation from convolutional neural networks to graph-structured data. They average the features of a node's neighbors to produce an updated node representation. GCNs have been applied to node classification, link prediction, and graph classification tasks.
+
+Graph attention networks use attention mechanisms to weight the contributions of different neighbors differently. This allows nodes to focus on their most relevant neighbors. Attention weights are computed based on the features of the node and its neighbor, making them adaptive to the local graph structure.
+
+Molecular property prediction is one of the most successful applications of graph neural networks. Molecules are naturally represented as graphs, with atoms as nodes and chemical bonds as edges. GNNs can predict molecular properties like solubility, toxicity, and biological activity, accelerating drug discovery.
+
+Knowledge graph completion involves predicting missing links in a knowledge graph, which represents entities and their relationships. GNNs can learn rich representations of entities and relations that enable accurate link prediction. Knowledge graph completion has applications in question answering and recommendation systems.
+
+Social network analysis uses GNNs to understand and predict behavior in social networks. Applications include community detection, influence prediction, and spam detection. GNNs can capture both the features of individual users and the structure of their social connections.
+
+Scalability is a significant challenge for graph neural networks applied to large graphs with millions of nodes and edges. Mini-batch training, neighbor sampling, and graph partitioning are techniques used to make GNN training and inference scalable to large graphs.

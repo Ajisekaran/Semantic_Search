@@ -1,0 +1,15 @@
+Information retrieval is the science of searching for information in documents, metadata, and databases. It is the foundation of search engines and library systems, providing methods for indexing, querying, and ranking information.
+
+The Boolean retrieval model represents documents and queries as sets of terms and uses Boolean operators to combine terms. A query specifying documents that contain term A AND term B but NOT term C will retrieve only documents satisfying all conditions. Boolean retrieval is exact but does not rank results by relevance.
+
+The vector space model represents documents and queries as vectors in a high-dimensional space, where each dimension corresponds to a term. The similarity between a document and a query is computed as the cosine of the angle between their vectors. TF-IDF weighting reflects the importance of terms and is used to construct document vectors.
+
+Probabilistic models of information retrieval estimate the probability that a document is relevant to a query. The BM25 ranking function, derived from probabilistic principles, has proven to be highly effective in practice and is widely used in search engines and information retrieval systems.
+
+Evaluation of information retrieval systems uses test collections consisting of documents, queries, and relevance judgments. Precision measures the fraction of retrieved documents that are relevant. Recall measures the fraction of relevant documents that are retrieved. The F-measure combines precision and recall into a single metric.
+
+Query expansion improves retrieval by adding related terms to the original query. Relevance feedback, where the user marks relevant documents and the system expands the query accordingly, is a classic technique. Automatic query expansion uses thesauri or co-occurrence statistics to identify related terms.
+
+Latent semantic analysis, or LSA, uses singular value decomposition to discover latent semantic relationships between terms and documents. By representing documents in a lower-dimensional semantic space, LSA can retrieve documents that are conceptually related to the query even if they do not share exact terms.
+
+Neural information retrieval uses dense vector representations of queries and documents to compute relevance. Bi-encoder models compute separate representations for queries and documents, while cross-encoder models jointly encode query-document pairs. Neural retrieval models have significantly improved the quality of search results.

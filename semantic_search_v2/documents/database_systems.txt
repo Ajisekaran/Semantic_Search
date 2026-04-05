@@ -1,0 +1,15 @@
+Database systems are organized collections of structured information or data stored electronically in a computer system. A database management system, or DBMS, is software that enables users to define, create, maintain, and control access to a database.
+
+Relational databases organize data into tables with rows and columns, and use SQL for data definition and manipulation. Relationships between tables are defined using primary and foreign keys. Popular relational databases include MySQL, PostgreSQL, Oracle, and Microsoft SQL Server.
+
+NoSQL databases provide flexible data models that can handle unstructured and semi-structured data. They are designed to scale horizontally across many servers. Types of NoSQL databases include document databases like MongoDB, key-value stores like Redis, and column-family databases like Cassandra.
+
+SQL, or Structured Query Language, is the standard language for interacting with relational databases. It provides commands for creating tables, inserting data, querying data, and managing database permissions. SQL is a declarative language, meaning users specify what data they want, not how to retrieve it.
+
+Database indexing improves the speed of data retrieval operations. An index is a data structure that provides quick access to rows in a table based on the values of one or more columns. While indexes speed up read operations, they add overhead to write operations.
+
+Database normalization is the process of organizing a database to reduce data redundancy and improve data integrity. Normal forms define rules for structuring tables and relationships. Denormalization is sometimes used to improve query performance at the cost of some data redundancy.
+
+ACID properties, which stand for atomicity, consistency, isolation, and durability, are a set of properties that guarantee database transactions are processed reliably. These properties are essential for applications that require data integrity, such as banking and e-commerce systems.
+
+Distributed databases store data across multiple nodes or servers. They provide high availability, fault tolerance, and scalability. Consistent hashing, replication, and sharding are techniques used to distribute data across nodes.

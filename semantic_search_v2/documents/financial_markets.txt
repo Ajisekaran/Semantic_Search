@@ -1,0 +1,15 @@
+Financial markets are platforms where buyers and sellers can trade financial securities, commodities, and other assets. They play a crucial role in the economy by facilitating the allocation of capital, enabling risk management, and providing price discovery.
+
+Stock markets allow companies to raise capital by issuing shares to the public and provide investors with a platform to buy and sell these shares. Major stock exchanges include the New York Stock Exchange, NASDAQ, London Stock Exchange, and Tokyo Stock Exchange.
+
+Bond markets facilitate the issuance and trading of debt securities. Governments and corporations issue bonds to raise capital, promising to pay interest and repay the principal at maturity. Bond prices and yields move inversely, and bond yields are closely watched as indicators of economic conditions.
+
+Foreign exchange markets, or forex markets, are where currencies are traded. The forex market is the largest and most liquid financial market in the world, with trillions of dollars traded daily. Exchange rates are influenced by factors including interest rate differentials, inflation, and economic growth.
+
+Derivatives are financial instruments whose value is derived from an underlying asset. Options give the holder the right but not the obligation to buy or sell an asset at a specified price. Futures obligate the holder to buy or sell an asset at a future date at an agreed price. Derivatives are used for hedging risk and speculation.
+
+Market microstructure studies how the mechanics of trading affect prices, liquidity, and efficiency. Bid-ask spreads, market depth, and order types are aspects of market microstructure. Electronic trading has transformed market microstructure, reducing trading costs and increasing speed.
+
+Behavioral finance examines how psychological biases affect financial decision-making. Concepts like loss aversion, overconfidence, and herding behavior help explain market anomalies that are difficult to reconcile with the assumption of rational investors. Behavioral insights are used in product design and investor education.
+
+Regulatory frameworks for financial markets aim to ensure fairness, transparency, and stability. Regulators like the SEC in the United States and the FCA in the United Kingdom oversee financial markets and enforce rules against fraud and market manipulation. Following the 2008 financial crisis, regulations were strengthened to reduce systemic risk.

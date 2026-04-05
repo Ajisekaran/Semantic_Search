@@ -1,0 +1,15 @@
+Human-computer interaction, or HCI, is the study of how people interact with computers and technology. It draws on computer science, psychology, design, and other disciplines to create interfaces that are usable, efficient, and enjoyable.
+
+Usability refers to the ease with which users can learn and use a system to achieve their goals. The dimensions of usability include learnability, efficiency, memorability, error rate, and user satisfaction. Usability testing involves observing users as they interact with a system to identify problems and opportunities for improvement.
+
+User experience design, or UX design, focuses on creating products that provide meaningful and relevant experiences to users. UX design encompasses the entire process of acquiring and integrating a product, including aspects of branding, design, usability, and function.
+
+Accessibility ensures that products and services are usable by people with disabilities. This includes visual, auditory, motor, and cognitive disabilities. Web accessibility standards like WCAG provide guidelines for making web content accessible. Designing for accessibility benefits all users, not just those with disabilities.
+
+Cognitive load refers to the mental effort required to use a system. High cognitive load can lead to errors, frustration, and abandonment. Good interface design minimizes cognitive load by using familiar patterns, providing clear feedback, and reducing unnecessary complexity.
+
+Touch interfaces, introduced by smartphones and tablets, have fundamentally changed how people interact with computers. Touchscreens support direct manipulation of digital objects, enabling intuitive gestures like pinching, swiping, and tapping. Designing for touch requires different considerations than designing for mouse and keyboard.
+
+Voice interfaces allow users to interact with computers using natural language. Smart speakers, virtual assistants, and voice-enabled applications have made voice interaction mainstream. Designing effective voice interfaces requires understanding how people speak and how to handle the ambiguity of natural language.
+
+Emerging interaction modalities including brain-computer interfaces, gesture recognition, and haptic feedback are expanding the ways humans can interact with technology. These technologies open up new possibilities for applications in healthcare, accessibility, and entertainment, but also raise ethical and privacy concerns.

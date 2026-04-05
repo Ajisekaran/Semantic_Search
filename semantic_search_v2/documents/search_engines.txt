@@ -1,0 +1,15 @@
+Search engines are systems that retrieve information from the web or other document collections in response to user queries. They are among the most widely used applications on the internet, processing billions of queries every day.
+
+Web crawling is the process by which search engines discover and collect web pages. Automated programs called crawlers or spiders follow links from page to page, downloading and indexing the content they find. The crawler must manage the vast scale of the web while respecting website policies about crawling.
+
+The inverted index is the core data structure of most search engines. It maps terms to the documents that contain them, along with information about where in the document the terms appear and how often. The inverted index enables efficient retrieval of documents matching a query.
+
+Ranking algorithms determine the order in which search results are presented to the user. PageRank, developed by Google, ranks pages based on the number and quality of links pointing to them. Modern search engines use machine learning models that consider hundreds of signals to rank results.
+
+Query understanding is the process of interpreting what the user is looking for. This involves handling spelling corrections, synonyms, and ambiguous queries. Natural language processing techniques help search engines understand the intent behind a query, not just the literal terms.
+
+Semantic search goes beyond keyword matching to understand the meaning of queries and documents. It uses techniques like entity recognition, knowledge graphs, and dense vector representations to retrieve documents that are conceptually relevant to the query even if they do not contain the exact query terms.
+
+Search engine optimization, or SEO, is the practice of improving the ranking of websites in search results. Techniques include optimizing page content, building links from other sites, and improving page speed and mobile-friendliness. Search engines continuously update their ranking algorithms to combat manipulative SEO practices.
+
+Personalization tailors search results to individual users based on their search history, location, and other signals. Personalized search aims to provide more relevant results by understanding each user's interests and context. However, it also raises concerns about filter bubbles and privacy.

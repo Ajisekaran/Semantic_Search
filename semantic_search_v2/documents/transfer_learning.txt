@@ -1,0 +1,15 @@
+Transfer learning is a machine learning technique where a model trained on one task is reused as the starting point for a model on a different but related task. It is particularly useful when labeled data for the target task is scarce or when training from scratch would be computationally expensive.
+
+Pre-trained models have learned general features from large datasets that can be useful across many tasks. In computer vision, models pre-trained on ImageNet have learned to recognize a wide range of visual features. In natural language processing, models pre-trained on large text corpora have learned rich representations of language.
+
+Fine-tuning adapts a pre-trained model to a specific target task by continuing training on task-specific data. The pre-trained weights serve as initialization, giving the model a head start over random initialization. Fine-tuning typically requires much less data and computation than training from scratch.
+
+Domain adaptation addresses the challenge of applying a model trained on data from one domain to data from a different domain. For example, a sentiment analysis model trained on movie reviews may not perform well on product reviews without adaptation. Domain adaptation techniques help bridge this gap.
+
+Few-shot learning is an extreme form of transfer learning where the model must learn a new task from only a small number of examples. Large language models have shown impressive few-shot learning capabilities, being able to perform new tasks from just a few examples provided in the prompt.
+
+The BERT model introduced bidirectional pre-training for transformers, learning to predict masked words using context from both sides. This approach produced representations that significantly improved performance on a wide range of natural language processing tasks when fine-tuned.
+
+Knowledge distillation is a technique where a smaller student model is trained to mimic the behavior of a larger teacher model. This allows the knowledge of a large, computationally expensive model to be transferred to a smaller, more efficient model. Distilled models can be deployed in resource-constrained environments.
+
+Multi-task learning trains a single model on multiple related tasks simultaneously. Sharing representations across tasks allows the model to benefit from the training signal of all tasks, often improving performance on each individual task compared to training separate models.

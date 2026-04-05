@@ -1,0 +1,15 @@
+Time series analysis involves methods for analyzing time-ordered data to extract meaningful statistics and other characteristics. Time series data is found in many domains including finance, healthcare, meteorology, and manufacturing.
+
+Trend analysis identifies the long-term direction of a time series. A trend can be upward, downward, or stationary. Linear regression and moving averages are common methods for identifying and modeling trends in time series data.
+
+Seasonality refers to periodic fluctuations that occur at regular intervals, such as daily, weekly, or annual cycles. Retail sales, for example, often show seasonal patterns with peaks during holiday periods. Decomposition methods separate a time series into trend, seasonal, and residual components.
+
+Autocorrelation measures the correlation between a time series and a lagged version of itself. High autocorrelation at a given lag indicates that past values are predictive of future values. The autocorrelation function and partial autocorrelation function are tools used to identify the structure of a time series.
+
+ARIMA, which stands for autoregressive integrated moving average, is a widely used statistical model for time series forecasting. It captures autocorrelation, trends, and moving average behavior. ARIMA models are specified by three parameters p, d, and q, which control the autoregressive, differencing, and moving average components.
+
+Prophet is a time series forecasting library developed by Facebook that is designed to handle the common patterns found in business data, including multiple seasonalities, holiday effects, and trend changes. It is user-friendly and robust to missing data and outliers.
+
+Deep learning approaches to time series analysis include recurrent neural networks and their variants like LSTM and GRU, which can model complex temporal dependencies. Transformer-based models have also been applied to time series problems with promising results.
+
+Anomaly detection in time series identifies unusual observations that deviate significantly from expected patterns. Anomalies can indicate system failures, fraud, or other significant events. Statistical methods, machine learning models, and deep learning approaches are used for time series anomaly detection.

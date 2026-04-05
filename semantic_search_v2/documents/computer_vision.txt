@@ -1,0 +1,15 @@
+Computer vision is a field of artificial intelligence that enables computers to interpret and understand visual information from the world, such as images and videos. It combines image processing, machine learning, and deep learning to extract meaning from visual data.
+
+Image classification assigns a label to an image based on its content. Deep learning models, particularly convolutional neural networks, have achieved remarkable accuracy on image classification tasks. ImageNet, a large dataset of labeled images, has been instrumental in advancing the field.
+
+Object detection goes beyond classification to identify and locate specific objects within an image. Models like YOLO and Faster R-CNN can detect multiple objects in an image and draw bounding boxes around them in real time. Object detection is used in applications like self-driving cars and security cameras.
+
+Image segmentation divides an image into segments or regions that correspond to different objects or parts of objects. Semantic segmentation assigns a class label to each pixel, while instance segmentation distinguishes between different instances of the same class. Segmentation is used in medical imaging and autonomous driving.
+
+Facial recognition identifies or verifies individuals from images or video. It uses biometric data derived from facial features. While facial recognition has legitimate uses in security and law enforcement, it has also raised significant privacy and civil liberties concerns.
+
+Optical character recognition, or OCR, converts images of text into machine-readable text. Modern OCR systems using deep learning can achieve high accuracy on a wide range of fonts and languages. OCR is used in document digitization, automated data entry, and accessibility tools.
+
+Pose estimation determines the position and orientation of human body parts in images or video. It is used in applications like motion capture for film and gaming, fitness tracking, and human-computer interaction. OpenPose is a widely used open-source pose estimation framework.
+
+Video analysis extends computer vision to temporal data. Tasks include action recognition, video object tracking, and anomaly detection. Deep learning models can analyze video to understand scenes, track objects over time, and identify unusual events.

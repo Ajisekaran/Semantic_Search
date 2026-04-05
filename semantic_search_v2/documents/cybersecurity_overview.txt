@@ -1,0 +1,15 @@
+Cybersecurity refers to the practice of protecting computer systems, networks, and data from digital attacks, theft, and damage. As our reliance on digital infrastructure grows, cybersecurity has become a critical concern for individuals, businesses, and governments.
+
+Malware is malicious software designed to disrupt, damage, or gain unauthorized access to computer systems. Types of malware include viruses, worms, ransomware, and spyware. Antivirus software and firewalls are common defenses against malware.
+
+Phishing attacks use fraudulent emails, websites, or messages to trick users into revealing sensitive information such as passwords and credit card numbers. Phishing is one of the most common and effective methods used by cybercriminals. User education is an important line of defense.
+
+Encryption is the process of converting data into a coded format that can only be read by authorized parties. It is a fundamental tool in cybersecurity, protecting data in transit and at rest. Strong encryption algorithms like AES and RSA are widely used.
+
+Network security involves protecting the integrity, confidentiality, and availability of data as it is transmitted across or accessed through a network. Firewalls, intrusion detection systems, and virtual private networks are common network security tools.
+
+AI is increasingly being applied to cybersecurity to detect and respond to threats more quickly. Machine learning models can analyze network traffic, user behavior, and system logs to identify anomalies that may indicate a cyberattack. AI-powered systems can respond to threats in real time, reducing the impact of attacks.
+
+Zero-trust security is an approach that assumes no user or system should be trusted by default, even if they are inside the network perimeter. Every access request must be authenticated and authorized. Zero-trust architectures are becoming more popular as remote work increases.
+
+Social engineering exploits human psychology rather than technical vulnerabilities to gain access to systems. Attackers manipulate individuals into divulging confidential information or performing actions that compromise security. Training employees to recognize social engineering tactics is essential.

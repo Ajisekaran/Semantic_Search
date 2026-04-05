@@ -1,0 +1,13 @@
+Text mining, also known as text data mining, is the process of deriving high-quality information from unstructured text. It involves the application of information extraction, natural language processing, and machine learning techniques to transform text into structured data that can be analyzed.
+
+Information extraction is a key task in text mining. Named entity recognition identifies mentions of specific types of entities like people, organizations, and locations. Relation extraction identifies semantic relationships between entities, such as who works for whom or where an event took place.
+
+Topic modeling is an unsupervised machine learning technique that discovers latent topics in a collection of documents. Latent Dirichlet Allocation, or LDA, is one of the most popular topic modeling algorithms. It represents each document as a mixture of topics and each topic as a probability distribution over words.
+
+Text classification assigns predefined categories to text documents. Spam filtering, sentiment analysis, and news categorization are examples of text classification tasks. Machine learning algorithms including naive Bayes, support vector machines, and deep neural networks are used for text classification.
+
+Document clustering groups similar documents together without predefined categories. It can be used to organize large document collections, discover themes, and facilitate navigation. K-means clustering and hierarchical clustering are common methods applied to text data represented as TF-IDF vectors or word embeddings.
+
+Keyword extraction identifies the most important words and phrases in a text. Keywords can be used for document indexing, summarization, and content recommendation. Statistical methods like TF-IDF and graph-based methods like TextRank are used for keyword extraction.
+
+Question answering systems retrieve answers to natural language questions from a document or knowledge base. Extractive question answering identifies spans of text that answer a question. Abstractive question answering generates answers in natural language. Large language models have significantly advanced the state of the art in question answering.

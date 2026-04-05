@@ -1,0 +1,15 @@
+Computer networks connect computing devices to share resources and information. They range from small home networks to the global internet, enabling communication, collaboration, and access to services at unprecedented scale.
+
+The OSI model, which stands for Open Systems Interconnection, is a conceptual framework that describes the functions of a network in seven layers. Each layer serves the layer above it and is served by the layer below it. The layers from bottom to top are physical, data link, network, transport, session, presentation, and application.
+
+The Internet Protocol, or IP, is the fundamental protocol of the internet. It defines how data is packetized, addressed, and routed across networks. IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses to accommodate the growing number of internet-connected devices.
+
+The Transmission Control Protocol, or TCP, provides reliable, ordered, and error-checked delivery of data between applications. It establishes connections using a three-way handshake and uses acknowledgments and retransmissions to ensure data is delivered correctly. TCP is used by applications that require reliability, such as web browsing and email.
+
+The Domain Name System, or DNS, translates human-readable domain names into IP addresses. It operates as a distributed database with a hierarchical structure. DNS enables users to access websites using memorable names rather than IP addresses.
+
+Network security protocols protect data in transit from eavesdropping and tampering. Transport Layer Security, or TLS, encrypts communications between clients and servers. It is used to secure web browsing, email, and other internet protocols. HTTPS is HTTP over TLS.
+
+Software-defined networking, or SDN, separates the network control plane from the data plane, allowing network behavior to be programmatically controlled. This enables more flexible and dynamic network management and has become important in data center and cloud computing environments.
+
+The Internet of Things is driving a massive increase in the number of network-connected devices. Managing the security, bandwidth, and latency requirements of billions of IoT devices presents significant challenges for network infrastructure. Edge computing brings computation closer to devices to reduce latency and bandwidth consumption.

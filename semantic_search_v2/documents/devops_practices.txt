@@ -1,0 +1,15 @@
+DevOps is a set of practices that combines software development and IT operations to shorten the development lifecycle and deliver high-quality software continuously. It emphasizes collaboration, automation, and a culture of continuous improvement.
+
+Continuous integration requires developers to frequently merge their code changes into a shared repository. Each merge triggers an automated build and test process, allowing teams to detect integration problems early. Frequent integration reduces the complexity of merging and helps maintain a working codebase.
+
+Continuous delivery is the practice of automatically preparing code changes for release to production. Every change that passes automated tests is ready to be deployed. This reduces the risk of deployments and enables more frequent and reliable releases.
+
+Infrastructure as code, or IaC, manages and provisions infrastructure through machine-readable configuration files rather than manual processes. Tools like Terraform, Ansible, and CloudFormation allow teams to define, version, and automate infrastructure. IaC improves consistency, reproducibility, and the ability to recover from failures.
+
+Monitoring and observability are essential for operating software in production. Metrics, logs, and traces provide visibility into the health and performance of systems. Alerting systems notify teams when problems occur, while dashboards provide an overview of system status. Tools like Prometheus, Grafana, and Datadog are widely used.
+
+Containerization with Docker packages applications and their dependencies into portable containers. Kubernetes orchestrates containers at scale, handling deployment, scaling, and management. Containers and Kubernetes have become fundamental components of modern DevOps practices.
+
+GitOps is an approach to managing infrastructure and applications where Git repositories are the single source of truth for the desired state of the system. Changes to infrastructure and application configuration are made through pull requests and automatically applied by operators. GitOps improves traceability, consistency, and collaboration.
+
+Security is increasingly integrated into DevOps practices in an approach called DevSecOps. Security testing is automated and incorporated into the CI/CD pipeline. Security considerations are addressed throughout the development lifecycle, rather than as an afterthought before release.

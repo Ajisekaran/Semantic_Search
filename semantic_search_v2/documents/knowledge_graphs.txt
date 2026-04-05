@@ -1,0 +1,15 @@
+Knowledge graphs are structured representations of knowledge that encode entities and their relationships in a graph format. They are used to organize, integrate, and reason over large amounts of information in a way that is accessible to both humans and machines.
+
+Entities in a knowledge graph represent real-world objects or concepts, such as people, places, and organizations. Relationships connect entities and describe how they are related. The edges in the graph are labeled with the type of relationship, such as is located in, was born in, or is employed by.
+
+The Resource Description Framework, or RDF, is a standard for representing knowledge graphs on the web. RDF represents knowledge as triples consisting of a subject, predicate, and object. SPARQL is the query language used to retrieve information from RDF knowledge graphs.
+
+Knowledge graph construction involves extracting entities and relationships from structured and unstructured data sources. Information extraction techniques including named entity recognition, relation extraction, and coreference resolution are used to automatically populate knowledge graphs from text.
+
+Knowledge graph completion involves predicting missing entities or relationships in a knowledge graph. This task is important because knowledge graphs are typically incomplete. Embedding-based methods represent entities and relationships as vectors and use them to predict missing links. TransE, RotatE, and ComplEx are popular knowledge graph embedding models.
+
+Reasoning over knowledge graphs enables systems to infer new facts from existing ones. Rule-based reasoning applies logical rules to derive implicit knowledge. Embedding-based reasoning uses neural networks to capture statistical patterns in the graph. Hybrid approaches combine symbolic and neural methods.
+
+Industry applications of knowledge graphs are widespread. Google's Knowledge Panel, which appears in search results, is powered by a large knowledge graph. Amazon, Microsoft, and Facebook also use knowledge graphs for product recommendations, personal assistants, and social networking.
+
+Temporal knowledge graphs extend traditional knowledge graphs to represent facts that are valid only during specific time periods. Modeling temporal information is important for applications that require understanding how relationships change over time, such as tracking career histories or political alliances.

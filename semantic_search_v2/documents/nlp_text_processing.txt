@@ -1,0 +1,15 @@
+Natural language processing, or NLP, is a field of artificial intelligence that deals with the interaction between computers and human language. It involves programming computers to process and analyze large amounts of natural language data to understand its meaning and context.
+
+Text tokenization is the process of breaking text into individual units called tokens. Tokens can be words, sentences, or subwords depending on the tokenization strategy. Tokenization is typically the first step in any NLP pipeline.
+
+Stop word removal is a common preprocessing technique in NLP. Stop words are frequently occurring words like the, is, and at that carry little meaningful information. Removing stop words reduces the size of the vocabulary and can improve the performance of certain NLP tasks.
+
+Stemming and lemmatization are techniques used to reduce words to their base or root form. Stemming uses heuristic rules to strip suffixes from words, while lemmatization uses a dictionary to find the canonical form of a word. These techniques help reduce vocabulary size and improve generalization.
+
+TF-IDF, which stands for term frequency-inverse document frequency, is a numerical statistic used to reflect the importance of a word in a document relative to a corpus. It is widely used in information retrieval and text mining as a measure of word relevance.
+
+Word embeddings represent words as dense vectors in a continuous vector space where semantically similar words are mapped to nearby points. Word2Vec and GloVe are popular methods for learning word embeddings from large corpora. These representations capture semantic and syntactic relationships between words.
+
+Named entity recognition is the task of identifying and classifying named entities in text into predefined categories such as person names, organizations, and locations. It is an important component of information extraction pipelines.
+
+Sentiment analysis determines the emotional tone behind text, whether it is positive, negative, or neutral. It is widely used in business to monitor brand reputation, analyze customer feedback, and track public opinion on social media.

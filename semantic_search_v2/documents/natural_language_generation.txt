@@ -1,0 +1,15 @@
+Natural language generation, or NLG, is the process of automatically generating human-readable text from structured data or other inputs. It is a subfield of natural language processing and has applications in automated reporting, content creation, and conversational AI.
+
+Template-based NLG uses predefined text templates with slots that are filled with data values to generate text. This approach is simple and predictable but lacks flexibility and can produce repetitive text. It is used for generating structured documents like financial reports and weather forecasts.
+
+Statistical and neural NLG models learn to generate text from data without hand-crafted rules or templates. Language models are trained on large corpora of text and can generate fluent and diverse text on a wide range of topics. GPT and other large language models represent the current state of the art in neural NLG.
+
+Data-to-text generation converts structured data into natural language descriptions. Applications include automated sports commentary, financial report generation, and describing data visualizations in natural language. Faithfulness, ensuring that the generated text accurately reflects the input data, is a key challenge.
+
+Dialogue systems use NLG to generate responses in conversational applications. Task-oriented dialogue systems help users accomplish specific goals like booking a flight or making a reservation. Open-domain chatbots engage in more general conversation without a specific task in mind.
+
+Summarization automatically generates concise summaries of longer texts. Extractive summarization selects and combines sentences from the source text, while abstractive summarization generates new sentences that capture the key information. Neural abstractive summarization models have made significant advances in recent years.
+
+Story generation uses AI to create narratives automatically. It is an active research area that combines language modeling with narrative structure and world modeling. Story generation has applications in entertainment, education, and game development.
+
+Evaluation of NLG systems is challenging because text quality is subjective and multi-dimensional. Automatic metrics like BLEU and ROUGE measure similarity to reference texts but do not fully capture quality. Human evaluation is considered the gold standard but is expensive and time-consuming.

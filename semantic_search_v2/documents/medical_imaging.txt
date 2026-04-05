@@ -1,0 +1,15 @@
+Medical imaging encompasses a range of techniques used to visualize the interior of the human body for clinical analysis and medical intervention. Modern medical imaging has transformed healthcare by enabling non-invasive diagnosis and treatment planning.
+
+X-ray imaging uses electromagnetic radiation to create images of internal structures. Dense structures like bones absorb more radiation and appear white on the image, while soft tissues appear in shades of gray. X-rays are widely used to diagnose fractures, pneumonia, and other conditions.
+
+Computed tomography, or CT, uses X-rays taken from multiple angles to create cross-sectional images of the body. CT scans provide much more detailed information than conventional X-rays and can visualize soft tissues as well as bones. They are widely used in emergency medicine, oncology, and diagnosis of complex conditions.
+
+Magnetic resonance imaging, or MRI, uses magnetic fields and radio waves to generate detailed images of soft tissues. MRI is particularly valuable for imaging the brain, spinal cord, joints, and other soft tissue structures. It does not use ionizing radiation, making it safer for repeated use than X-ray or CT.
+
+Ultrasound uses high-frequency sound waves to create images of internal organs and structures. It is real-time, portable, and does not use ionizing radiation, making it suitable for many applications including obstetrics, cardiology, and guided procedures. Ultrasound images are interpreted by trained clinicians.
+
+Nuclear medicine imaging uses radioactive tracers to visualize physiological processes in the body. Positron emission tomography, or PET, scans detect the gamma rays emitted by radioactive tracers to create three-dimensional images of metabolic activity. PET is widely used in oncology to detect and stage cancer.
+
+Deep learning has achieved remarkable results in medical image analysis. Neural networks can detect cancer in mammograms, identify diabetic retinopathy in retinal photographs, and segment tumors in MRI scans with accuracy approaching or exceeding that of radiologists. AI-assisted diagnosis is being integrated into clinical workflows.
+
+Image-guided procedures use real-time imaging to guide surgical and interventional procedures. Fluoroscopy, ultrasound, and MRI can guide the placement of catheters, needles, and other devices. Robotic systems can use image data to assist surgeons in performing precise movements.

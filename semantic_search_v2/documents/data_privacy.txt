@@ -1,0 +1,15 @@
+Data privacy refers to the rights and obligations of individuals and organizations with respect to the collection, storage, and use of personal data. As data collection has become pervasive, privacy has become a critical concern for consumers, businesses, and regulators.
+
+The General Data Protection Regulation, or GDPR, is a comprehensive data protection law that applies to organizations that process the personal data of individuals in the European Union. It establishes rights for individuals including the right to access, correct, and delete their personal data.
+
+The California Consumer Privacy Act, or CCPA, gives California residents the right to know what personal data is collected about them, to opt out of the sale of their personal data, and to request deletion of their data. It has inspired similar legislation in other US states.
+
+Data minimization is a privacy principle that holds that organizations should only collect the minimum amount of personal data necessary for the stated purpose. Collecting more data than needed increases privacy risk without any corresponding benefit.
+
+Anonymization and pseudonymization are techniques for reducing the privacy risk associated with personal data. Anonymization removes identifying information so that individuals cannot be identified. Pseudonymization replaces identifying information with a pseudonym, allowing data to be re-identified if necessary.
+
+Privacy by design is an approach that embeds privacy considerations into the design and architecture of systems and processes from the outset. Rather than treating privacy as an afterthought, privacy by design makes it a core component of every system.
+
+Data breaches occur when personal data is accessed, disclosed, or lost without authorization. Organizations are typically required to notify affected individuals and regulators of significant data breaches. The financial and reputational consequences of a data breach can be severe.
+
+Consent is a fundamental principle in data privacy. Organizations should obtain clear and informed consent from individuals before collecting and processing their personal data. Consent should be freely given, specific, informed, and revocable.

@@ -1,0 +1,15 @@
+Robotics is the branch of technology that deals with the design, construction, operation, and application of robots. Robots are programmable machines capable of carrying out a series of actions automatically. Modern robots are increasingly equipped with sensors, actuators, and AI capabilities.
+
+Industrial robots have been used in manufacturing for decades to perform tasks like welding, painting, assembly, and packaging. They are highly precise, can work continuously without fatigue, and can operate in environments that are hazardous to humans. The automotive industry is one of the largest users of industrial robots.
+
+Collaborative robots, or cobots, are designed to work alongside humans safely. Unlike traditional industrial robots that operate in caged environments, cobots can detect the presence of humans and adjust their movements accordingly. Cobots are increasingly used in small and medium-sized enterprises.
+
+Autonomous mobile robots, or AMRs, can navigate through environments without human guidance. They use sensors, maps, and AI to plan paths and avoid obstacles. AMRs are widely used in warehouses and distribution centers to transport goods.
+
+Robotic process automation, or RPA, uses software robots to automate repetitive, rule-based business processes. Unlike physical robots, RPA bots work on computer systems to perform tasks like data entry, form filling, and report generation. RPA can significantly reduce the time and cost of administrative processes.
+
+Surgical robots assist surgeons in performing minimally invasive procedures with greater precision and control. The da Vinci Surgical System is one of the most well-known surgical robots, used for procedures including prostatectomy, hysterectomy, and cardiac surgery.
+
+Drones, or unmanned aerial vehicles, are a growing category of robots with applications in delivery, agriculture, surveillance, and search and rescue. Advances in battery technology, sensors, and AI are expanding the capabilities and use cases for drones.
+
+The future of robotics is closely tied to advances in artificial intelligence. AI enables robots to perceive and interpret their environment, learn from experience, and make decisions in complex and unpredictable situations. As AI improves, robots will become increasingly capable and autonomous.

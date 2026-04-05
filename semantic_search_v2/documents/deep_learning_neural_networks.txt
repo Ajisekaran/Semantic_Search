@@ -1,0 +1,15 @@
+Deep learning is a subset of machine learning that uses neural networks with many layers, also called deep neural networks. These networks are inspired by the structure and function of the human brain, with interconnected nodes that process information in layers.
+
+A neural network consists of an input layer, one or more hidden layers, and an output layer. Each layer contains nodes or neurons that are connected to neurons in adjacent layers. The connections between neurons have weights that are adjusted during training.
+
+Convolutional neural networks, or CNNs, are particularly effective for image recognition tasks. They use convolutional layers that scan input data with filters to detect features like edges, textures, and shapes. CNNs have achieved human-level performance on many image classification benchmarks.
+
+Recurrent neural networks, or RNNs, are designed for sequential data like text or time series. They have connections that form cycles, allowing information to persist from one step to the next. Long short-term memory networks, or LSTMs, are a special type of RNN that can learn long-term dependencies.
+
+Transformer models have revolutionized natural language processing. The attention mechanism in transformers allows the model to weigh the importance of different words in a sequence when making predictions. Models like BERT and GPT are based on the transformer architecture.
+
+Training deep neural networks requires large amounts of data and computational resources. Graphics processing units, or GPUs, are commonly used to accelerate training because they can perform many parallel computations simultaneously.
+
+Activation functions introduce non-linearity into neural networks, allowing them to learn complex patterns. Common activation functions include ReLU, sigmoid, and tanh. The choice of activation function can significantly affect the learning dynamics and performance of a neural network.
+
+Batch normalization is a technique that normalizes the inputs of each layer to speed up training and improve stability. Dropout is a regularization technique that randomly sets a fraction of input units to zero during training to prevent overfitting.

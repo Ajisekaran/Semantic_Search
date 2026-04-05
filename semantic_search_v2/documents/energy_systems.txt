@@ -1,0 +1,15 @@
+Energy systems encompass the infrastructure for generating, transmitting, and distributing energy to consumers. The world's energy systems are undergoing a profound transformation as the need to reduce greenhouse gas emissions drives a shift from fossil fuels to renewable energy sources.
+
+The electricity grid connects power generators to consumers through transmission and distribution networks. Traditional grids were designed around centralized power plants that provide electricity on demand. The integration of variable renewable energy sources like solar and wind is requiring fundamental changes to grid operation and management.
+
+Solar photovoltaic technology converts sunlight directly into electricity. The cost of solar panels has fallen dramatically over the past decade, making solar power one of the cheapest sources of new electricity generation in many parts of the world. Rooftop solar allows consumers to generate their own electricity.
+
+Wind power generates electricity by harnessing the kinetic energy of wind using turbines. Onshore wind is one of the lowest-cost sources of electricity in many regions. Offshore wind, while more expensive, can access stronger and more consistent winds and can be sited away from populated areas.
+
+Energy storage is critical for managing the variability of renewable energy sources. Batteries can store excess electricity when renewable generation is high and release it when generation is low. Grid-scale battery storage is growing rapidly, driven by falling battery costs.
+
+Hydrogen is emerging as an important energy carrier for decarbonizing sectors that are difficult to electrify, such as heavy industry, shipping, and aviation. Green hydrogen, produced using renewable electricity to split water, can be stored and transported and used as a fuel or feedstock.
+
+Nuclear energy provides reliable, low-carbon electricity and currently accounts for about ten percent of global electricity generation. Advanced nuclear technologies, including small modular reactors and fusion energy, could play a significant role in future low-carbon energy systems.
+
+Smart grid technologies use digital communication and control systems to improve the efficiency, reliability, and flexibility of the electricity grid. Smart meters, demand response programs, and advanced grid management software help balance supply and demand and integrate distributed energy resources.
