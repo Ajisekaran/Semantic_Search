@@ -80,7 +80,7 @@ Search documents using TF-IDF + Cosine Similarity.
 
 | Parameter | Type | Required | Default | Description |
 |---|---|---|---|---|
-| `q` | string | ✅ Yes | — | Search query |
+| `q` | string |  Yes | — | Search query |
 | `top_n` | int | No | 3 | Results to return (max 10) |
 
 **Success response (results found):**
